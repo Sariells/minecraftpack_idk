@@ -1,5 +1,5 @@
 # minecraftpack_idk
-for my friends
+for my friends 
 ШАГ 1
 <img width="1050" height="655" alt="image" src="https://github.com/user-attachments/assets/7b27af86-7cd8-4a5a-b89b-1eaee0d8221c" />
 
@@ -24,7 +24,9 @@ for my friends
 ШАГ 8
 <img width="874" height="674" alt="image" src="https://github.com/user-attachments/assets/a8ca0194-1863-4b1f-a9ef-da43a3a4d513" />
 
-ШАГ 9 ПЕРЕКИДЫВАЕМ В ЭТУ ПАПКУ ВСЕ МОДЫ  С ПАПКИ MODS ЕСЛИ ПРОСИТ ЗАМЕНИТЬ ФАЙЛЫ ЗАМЕНЯЕТИ
+ШАГ 9 СКАЧИВАЕМ ОТСЮДА ВСЕ МОДЫ https://drive.google.com/drive/folders/1oTaVZkYo5jS3m0PsR0v3uJIf3GzxX-Tw?usp=sharing
+
+ШАГ 10 ПЕРЕКИДЫВАЕМ В ЭТУ ПАПКУ ВСЕ МОДЫ  С ПАПКИ MODS ЕСЛИ ПРОСИТ ЗАМЕНИТЬ ФАЙЛЫ ЗАМЕНЯЕТИ
 <img width="858" height="685" alt="image" src="https://github.com/user-attachments/assets/02adf0f1-2229-442e-ae2f-e8ff8b11c296" />
 
 ЧТОБЫ БЫЛА ТАК
