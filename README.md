@@ -1,5 +1,5 @@
 # minecraftpack_idk
-for my friends 
+for my friends https://drive.google.com/drive/folders/1oTaVZkYo5jS3m0PsR0v3uJIf3GzxX-Tw?usp=drive_link 
 ШАГ 1
 <img width="1050" height="655" alt="image" src="https://github.com/user-attachments/assets/7b27af86-7cd8-4a5a-b89b-1eaee0d8221c" />
 
