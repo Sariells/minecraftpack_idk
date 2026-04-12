@@ -24,7 +24,7 @@ for my friends
 ШАГ 8
 <img width="874" height="674" alt="image" src="https://github.com/user-attachments/assets/a8ca0194-1863-4b1f-a9ef-da43a3a4d513" />
 
-ШАГ 9 ПЕРЕКИДЫВАЕМ В ЭТУ ПАПКУ ВСЕ МОДЫ  С ПАПКИ MODS
+ШАГ 9 ПЕРЕКИДЫВАЕМ В ЭТУ ПАПКУ ВСЕ МОДЫ  С ПАПКИ MODS ЕСЛИ ПРОСИТ ЗАМЕНИТЬ ФАЙЛЫ ЗАМЕНЯЕТИ
 <img width="858" height="685" alt="image" src="https://github.com/user-attachments/assets/02adf0f1-2229-442e-ae2f-e8ff8b11c296" />
 
 ЧТОБЫ БЫЛА ТАК
