@@ -9,10 +9,10 @@ for my friends
 ШАГ 3 ПОВТОРИТЬ КАК НА СКРИНЕ
 <img width="577" height="407" alt="image" src="https://github.com/user-attachments/assets/763b968a-8ff3-444e-8944-a85e5a66998a" />
 
-ШАГ 4 ВЫБРАТЬ СБОРКУ
+ШАГ 4 ВЫБРАТЬ СБОРКУ ЗАЙТИ В ИГРУ, ВЫЙТИ С ИГРЫ.
 <img width="1052" height="687" alt="image" src="https://github.com/user-attachments/assets/bf9b6cf1-a465-4243-aed5-c38535eb63c5" />
 
-ШАГ 5 ЗАЙТИ В ИГРУ, ВЫЙТИ С ИГРЫ. 
+ШАГ 5 
 <img width="1050" height="655" alt="image" src="https://github.com/user-attachments/assets/411b42ec-7413-4cb9-a2e2-c4bd2fc80159" />
 
 ШАГ 6
